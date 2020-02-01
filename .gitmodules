@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/hmusavi/streams-react-client.git
+[submodule "api"]
+	path = api
+	url = https://github.com/hmusavi/streams-api-json-server.git
